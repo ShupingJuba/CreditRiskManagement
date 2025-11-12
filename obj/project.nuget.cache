@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "vnX/+oKOGeoz3BGakp6leahlkVv4rQ3r6godqmmnvQcILsdMpEA8bNk+rgOZL4ilY8Xi9C+gmCYJex3vGt//aA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\w7162299\\Desktop\\New folder\\CreditRiskManagement (1)\\CreditRiskManagement\\CreditRiskManagement\\CreditRiskManagement.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\w7162299\\.nuget\\packages\\system.io.pipelines\\10.0.0\\system.io.pipelines.10.0.0.nupkg.sha512",
+    "C:\\Users\\w7162299\\.nuget\\packages\\system.text.encodings.web\\10.0.0\\system.text.encodings.web.10.0.0.nupkg.sha512",
+    "C:\\Users\\w7162299\\.nuget\\packages\\system.text.json\\10.0.0\\system.text.json.10.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

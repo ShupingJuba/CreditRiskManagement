@@ -1,0 +1,44 @@
+[
+    {
+        "CustomerId": 1,
+        "Name": "Alice",
+        "PaymentHistory": 90,
+        "CreditUtilization": 40,
+        "AgeOfCreditHistory": 5
+    },
+    {
+        "CustomerId": 2,
+        "Name": "Bob",
+        "PaymentHistory": 70,
+        "CreditUtilization": 90,
+        "AgeOfCreditHistory": 15
+    },
+    {
+        "CustomerId": 3,
+        "Name": "Charlie",
+        "PaymentHistory": 60,
+        "CreditUtilization": 30,
+        "AgeOfCreditHistory": 2
+    },
+    {
+        "CustomerId": 4,
+        "Name": "Diana",
+        "PaymentHistory": 45,
+        "CreditUtilization": 95,
+        "AgeOfCreditHistory": 1
+    },
+    {
+        "CustomerId": 5,
+        "Name": "Edward",
+        "PaymentHistory": 85,
+        "CreditUtilization": 20,
+        "AgeOfCreditHistory": 8
+    },
+    {
+        "CustomerId": 6,
+        "Name": "Fiona",
+        "PaymentHistory": 50,
+        "CreditUtilization": 75,
+        "AgeOfCreditHistory": 3
+    }
+]
