@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\w7162299\\Desktop\\New folder\\CreditRiskManagement (1)\\CreditRiskManagement\\CreditRiskManagement\\CreditRiskManagement.csproj": {}
+    "C:\\Users\\w7162299\\Desktop\\New folder\\CreditRiskManagement\\CreditRiskManagement.csproj": {}
   },
   "projects": {
-    "C:\\Users\\w7162299\\Desktop\\New folder\\CreditRiskManagement (1)\\CreditRiskManagement\\CreditRiskManagement\\CreditRiskManagement.csproj": {
+    "C:\\Users\\w7162299\\Desktop\\New folder\\CreditRiskManagement\\CreditRiskManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\w7162299\\Desktop\\New folder\\CreditRiskManagement (1)\\CreditRiskManagement\\CreditRiskManagement\\CreditRiskManagement.csproj",
+        "projectUniqueName": "C:\\Users\\w7162299\\Desktop\\New folder\\CreditRiskManagement\\CreditRiskManagement.csproj",
         "projectName": "CreditRiskManagement",
-        "projectPath": "C:\\Users\\w7162299\\Desktop\\New folder\\CreditRiskManagement (1)\\CreditRiskManagement\\CreditRiskManagement\\CreditRiskManagement.csproj",
+        "projectPath": "C:\\Users\\w7162299\\Desktop\\New folder\\CreditRiskManagement\\CreditRiskManagement.csproj",
         "packagesPath": "C:\\Users\\w7162299\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\w7162299\\Desktop\\New folder\\CreditRiskManagement (1)\\CreditRiskManagement\\CreditRiskManagement\\obj\\",
+        "outputPath": "C:\\Users\\w7162299\\Desktop\\New folder\\CreditRiskManagement\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -47,6 +47,18 @@
             "System.Text.Json": {
               "target": "Package",
               "version": "[10.0.0, )"
+            },
+            "xunit.abstractions": {
+              "target": "Package",
+              "version": "[2.0.3, )"
+            },
+            "xunit.assert": {
+              "target": "Package",
+              "version": "[2.9.3, )"
+            },
+            "xunit.extensibility.core": {
+              "target": "Package",
+              "version": "[2.9.3, )"
             }
           },
           "imports": [

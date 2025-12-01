@@ -1,12 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "vnX/+oKOGeoz3BGakp6leahlkVv4rQ3r6godqmmnvQcILsdMpEA8bNk+rgOZL4ilY8Xi9C+gmCYJex3vGt//aA==",
+  "dgSpecHash": "FTpcx9mWo1oIpcx6TEJ/Xwa78B+NJmi1+S0FYp84t3gdczJYhkwHHpOGRbQ7ZIhQv7fto04t7b9CDJ5+U/N/aw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\w7162299\\Desktop\\New folder\\CreditRiskManagement (1)\\CreditRiskManagement\\CreditRiskManagement\\CreditRiskManagement.csproj",
+  "projectFilePath": "C:\\Users\\w7162299\\Desktop\\New folder\\CreditRiskManagement\\CreditRiskManagement.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\w7162299\\.nuget\\packages\\system.io.pipelines\\10.0.0\\system.io.pipelines.10.0.0.nupkg.sha512",
     "C:\\Users\\w7162299\\.nuget\\packages\\system.text.encodings.web\\10.0.0\\system.text.encodings.web.10.0.0.nupkg.sha512",
-    "C:\\Users\\w7162299\\.nuget\\packages\\system.text.json\\10.0.0\\system.text.json.10.0.0.nupkg.sha512"
+    "C:\\Users\\w7162299\\.nuget\\packages\\system.text.json\\10.0.0\\system.text.json.10.0.0.nupkg.sha512",
+    "C:\\Users\\w7162299\\.nuget\\packages\\xunit.abstractions\\2.0.3\\xunit.abstractions.2.0.3.nupkg.sha512",
+    "C:\\Users\\w7162299\\.nuget\\packages\\xunit.assert\\2.9.3\\xunit.assert.2.9.3.nupkg.sha512",
+    "C:\\Users\\w7162299\\.nuget\\packages\\xunit.extensibility.core\\2.9.3\\xunit.extensibility.core.2.9.3.nupkg.sha512"
   ],
   "logs": []
 }
